@@ -2,7 +2,7 @@
 // Start the session to store login information
 session_start();
 //test commit comment 1
-
+//test
 // Check if the form is submitted
 if ($_SERVER['REQUEST_METHOD'] == 'POST') {
     $valid_username = 'Admin';
